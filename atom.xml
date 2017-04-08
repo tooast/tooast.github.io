@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://tooast.github.io/"/>
   <updated>2017-04-08T08:28:33.532Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://tooast.github.io/</id>
   
   <author>
     <name>Tooast</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/04/08/hello-world/"/>
-    <id>http://yoursite.com/2017/04/08/hello-world/</id>
+    <link href="https://tooast.github.io/2017/04/08/hello-world/"/>
+    <id>https://tooast.github.io/2017/04/08/hello-world/</id>
     <published>2017-04-08T08:28:33.532Z</published>
     <updated>2017-04-08T08:28:33.532Z</updated>
     
